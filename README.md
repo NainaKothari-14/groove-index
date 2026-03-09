@@ -2,6 +2,8 @@
 
 > A dark editorial music artist showcase built with **React + Vite** — featuring 3D Swiper coverflow cards, spinning vinyl records with a tonearm, floating musical notes, and faint generative melodies via the Web Audio API.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-groove--index.vercel.app-c9a84c?style=for-the-badge&logo=vercel&logoColor=black)](https://groove-index.vercel.app/)
+
 ![Home Screenshot](screenshot/home.png)
 ![Music Screenshot](screenshot/music.png)
 
